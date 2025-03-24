@@ -20,7 +20,7 @@
 1. Clone le dépôt :
 
 ```bash
-git clone https://github.com/votre-utilisateur/social-finder.git
+git clone https://github.com/kayur0_/social-finder.git
 cd social-finder
 ```
 
@@ -41,7 +41,7 @@ pip install requests colorama
 Lance simplement le script :
 
 ```bash
-python social_finder.py
+python socialfinder.py
 ```
 
 Entre un pseudo à rechercher et le programme te dira sur quels sites il est utilisé.
