@@ -1,4 +1,4 @@
-# Social Finder
+# Social Finder 🔎
 
 **Social Finder** est un outil en ligne de commande permettant de rechercher un pseudo (nom d'utilisateur) sur de nombreux réseaux sociaux pour vérifier sa disponibilité ou son existence.
 
