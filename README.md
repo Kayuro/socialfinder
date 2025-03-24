@@ -87,4 +87,4 @@ Cet outil est à but éducatif uniquement. L’utilisation abusive peut enfreind
 
 ---
 
-**Développé par Kayuro**
+**Développé par Kayuro ❤️**
