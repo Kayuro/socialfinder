@@ -20,8 +20,8 @@
 1. Clone le dépôt :
 
 ```bash
-git clone https://github.com/kayur0_/social-finder.git
-cd social-finder
+git clone https://github.com/kayur0_/socialfinder.git
+cd socialfinder
 ```
 
 2. Installe les dépendances :
