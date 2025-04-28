@@ -10,11 +10,6 @@
 - Interface colorée et interactive
 - Chargement animé pendant les vérifications
 
-## Prérequis
-
-- Python 3.7 ou plus
-- Connexion internet
-
 ## Installation
 
 1. Clone le dépôt :
